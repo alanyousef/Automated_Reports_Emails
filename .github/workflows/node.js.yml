@@ -2,7 +2,7 @@ name: Daily Report
 
 on:
   schedule:
-  - cron: "0 14 * * *"
+  - cron: "53 21 * * *"
   workflow_dispatch:
   
 env:
